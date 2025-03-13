@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @VanillaVulture
-- 👀 I’m interested in Codeing 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on IDk
-- 📫 How to reach me 
+- 👀 I’m interested in Coding 
+- 🌱 I’m currently learning Java and Powershell
 
 <!---
 VanillaVulture/VanillaVulture is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
